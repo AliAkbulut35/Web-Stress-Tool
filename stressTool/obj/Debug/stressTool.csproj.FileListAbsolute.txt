@@ -1,0 +1,10 @@
+C:\Users\Tamer Berke Bozkurt\source\repos\stressTool\stressTool\bin\Debug\stressTool.exe.config
+C:\Users\Tamer Berke Bozkurt\source\repos\stressTool\stressTool\bin\Debug\stressTool.exe
+C:\Users\Tamer Berke Bozkurt\source\repos\stressTool\stressTool\bin\Debug\stressTool.pdb
+C:\Users\Tamer Berke Bozkurt\source\repos\stressTool\stressTool\obj\Debug\stressTool.csprojAssemblyReference.cache
+C:\Users\Tamer Berke Bozkurt\source\repos\stressTool\stressTool\obj\Debug\stressTool.Form1.resources
+C:\Users\Tamer Berke Bozkurt\source\repos\stressTool\stressTool\obj\Debug\stressTool.Properties.Resources.resources
+C:\Users\Tamer Berke Bozkurt\source\repos\stressTool\stressTool\obj\Debug\stressTool.csproj.GenerateResource.cache
+C:\Users\Tamer Berke Bozkurt\source\repos\stressTool\stressTool\obj\Debug\stressTool.csproj.CoreCompileInputs.cache
+C:\Users\Tamer Berke Bozkurt\source\repos\stressTool\stressTool\obj\Debug\stressTool.exe
+C:\Users\Tamer Berke Bozkurt\source\repos\stressTool\stressTool\obj\Debug\stressTool.pdb
